@@ -46,6 +46,7 @@
   </div>
 </template>
 
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 <script setup>
 import { reactive } from 'vue';
 import { NuxtLink } from '#components';
